@@ -4,6 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Pipeline.unity
+    guid: ca2137ce61a3489458c9083585115eca
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7c78fd9d3701ed740a73329b6068d1b3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 240dd7d92bb7d52438368ecdcef565b2, type: 2}
