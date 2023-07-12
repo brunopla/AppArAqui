@@ -47,6 +47,7 @@ public class ControlUI : MonoBehaviour
     void Start()
     {
         menuEscape.SetActive(false);
+        Screen.sleepTimeout = SleepTimeout.NeverSleep;
     }
 
     // Update is called once per frame
