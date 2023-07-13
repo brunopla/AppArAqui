@@ -46,7 +46,7 @@ public class ControlUI : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        menuEscape.SetActive(false);
+        //menuEscape.SetActive(false);
         Screen.sleepTimeout = SleepTimeout.NeverSleep;
     }
 
