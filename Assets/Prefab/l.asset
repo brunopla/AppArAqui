@@ -10,10 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
-  m_Name: ReferenceImageLibrary
+  m_Name: l
   m_EditorClassIdentifier: 
   m_GuidLow: 5411048702037487469
   m_GuidHigh: 9782361340160816062
   m_DataStore:
     m_Storage: []
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5368601070333414639
+      m_GuidHigh: 17701269503996315561
+    m_SerializedTextureGuid:
+      m_GuidLow: 6612415706262740284
+      m_GuidHigh: 13811876871518989192
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: KyonTracker (1)
+    m_Texture: {fileID: 0}
